@@ -32,6 +32,7 @@ I'm a passionate **[Backend Developer]** with experience in **[Node.js,Express.j
 
 [![Fridah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fridah34)](https://github.com/Fridah34/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fridah34)](https://github.com/Fridah34/github-readme-stats)
 
 ## Get in Touch 📬
 
