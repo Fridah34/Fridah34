@@ -30,15 +30,13 @@ I'm a passionate **[Backend Developer]** with experience in **[Node.js,Express.j
 
 **[Zeus Bank]** is a **[Bank Management System that manages transactions,its users and loans ]** built with **[PHP,HTML,CSS and SQL]**. This project demonstrates my ability to **[create a backend systems that manage the system by deploying APIs ]**. You can check out the repository [here](https://github.com/Fridah34/ZeusBank).
 
-[![Fridah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fridah34)](https://github.com/Fridah34/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fridah34)](https://github.com/Fridah34/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fridah34)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fridah34&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fridah34&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Fridah34&theme=radical&no-frame=true&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
